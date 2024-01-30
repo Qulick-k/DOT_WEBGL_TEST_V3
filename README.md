@@ -1,5 +1,6 @@
 DOT放到WebGL無法顯示實體
 看起來DOT沒支援網頁版著色器，需要再自己做著色器。
+
 資料>https://forum.unity.com/threads/dots-urp-webgl-problem.1253661/
 
 
